@@ -1,0 +1,20 @@
+COMP 280 - Project 09 (Parallel Game of Life)
+
+1. Authors:
+	- Name: Robert de Brum
+	- Email: rdebrum@sandiego.edu
+	- Name: Scott Kolnes
+	- Email: skolnes@sandiego.edu
+
+2. Total Hours Spent on Project: 
+	20
+
+3. Did you attempt the advanced component?
+	Nah
+
+4. Project Bucks Used:
+	0.000000000000000
+
+5. (Optional) Additional Comments:
+	Mahalo
+
